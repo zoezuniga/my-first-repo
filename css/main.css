@@ -6,7 +6,7 @@ html {
     box-sizing: border-box;
 }
 body {
-    background-color: lemonchiffon;
+    background-color: thistle;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ body {
 }
 
 .highlight {
-    color: maroon;
+    color: rgb(68, 0, 128);
 }
 
 @media screen and (min-width: 760px) {
